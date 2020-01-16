@@ -1,0 +1,9 @@
+{
+    "editor.snippetSuggestions": "none",
+    "editor.suggest.filterGraceful": false,
+    "editor.suggestSelection": "first",
+    "emmet.showExpandedAbbreviation": "never",
+    "editor.quickSuggestions": true, 
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.parameterHints": false
+}
